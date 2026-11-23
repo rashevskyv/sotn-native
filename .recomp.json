@@ -1,0 +1,19 @@
+{
+  "$schema": "https://recomp.fyi/schema/v1.json",
+  "game": "Castlevania: Symphony of the Night",
+  "system": "PS1",
+  "type": "port",
+  "project": "sotn-native",
+  "status": "playable",
+  "targets": [
+    "Linux",
+    "Switch"
+  ],
+  "approach": "Source port built from sotn-decomp on psyz, with Saturn and PSP content and a Ukrainian translation",
+  "maintainers": [
+    {
+      "name": "rashevskyv",
+      "link": "https://github.com/rashevskyv"
+    }
+  ]
+}
